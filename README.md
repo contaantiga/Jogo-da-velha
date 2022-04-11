@@ -1,6 +1,8 @@
-<h1>Jogo da Velha</h1>
+![jogodavelha](https://user-images.githubusercontent.com/101658522/162839342-b00ce715-7cbf-487a-be4e-a82aceba437f.png)
 
 > Status: Ready 🟢
+
+
 
 ### A simple game for you to have fun alone or with your friends 😉
 
