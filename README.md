@@ -27,5 +27,6 @@
   
 </table>
 
-## How to run the application:
+## Play now and take the test!
+
 
