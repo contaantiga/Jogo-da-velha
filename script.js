@@ -86,9 +86,9 @@ function checkDraw() {
 
 function endGame(draw) {
     if (draw) {
-        gameEndMessage.innerText = "Empate!"
+        gameEndMessage.innerText = "tie!"
     } else {
-        gameEndMessage.innerText = `${xTurn ? "X's" : "O's"} venceu!`
+        gameEndMessage.innerText = `${xTurn ? "X's" : "O's"} win!`
     }
 
     gameEndElement.classList.add('show')
