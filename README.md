@@ -27,4 +27,4 @@
   
 </table>
 
-### Play now and take the test! https://flynof.github.io/Jogo-da-velha/
+### Play now and take the <a href="https://flynof.github.io/Jogo-da-velha/">test!</a> 👵 
