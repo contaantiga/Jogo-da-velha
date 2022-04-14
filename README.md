@@ -28,3 +28,5 @@
 </table>
 
 ### Play now and take the <a href="https://flynof.github.io/Jogo-da-velha/">test!</a> 👵 
+
+<p> If you are interested in more detailed information about the process of creating this project, take a look at it on my <a href="https://www.linkedin.com/in/matheus-ferreira-167baa230/" target="_blank" rel="external">linkedin!</a></p>
